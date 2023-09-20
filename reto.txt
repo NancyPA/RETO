@@ -1,0 +1,8 @@
+   69  cd desktop
+   70  mkdir RETO
+   71  cd desktop
+   72  cd RETO
+   73  touch reto.sh
+   74  echo "#! /bin/bash" > reto.sh; code reto.sh
+   75  ./reto.sh
+   76  history 
